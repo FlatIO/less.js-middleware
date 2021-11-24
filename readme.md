@@ -1,12 +1,10 @@
 This middleware was created to allow processing of [Less](http://lesscss.org) files for [Connect JS](http://www.senchalabs.org/connect/) framework and by extension the [Express JS](http://expressjs.com/) framework.
 
-[![CircleCI](https://circleci.com/gh/emberfeather/less.js-middleware.svg?style=shield)](https://circleci.com/gh/emberfeather/less.js-middleware)
-[![Dependency Status](https://david-dm.org/emberfeather/less.js-middleware.svg)](https://david-dm.org/emberfeather/less.js-middleware)
-
 ## Installation
 
 ```sh
-npm install less-middleware --save
+npm install @flat/less-middleware --save
+yarn add @flat/less-middleware
 ```
 
 ## Usage
